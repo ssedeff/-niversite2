@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\bin\Debug\üniversite2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\bin\Debug\üniversite2.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\bin\Debug\üniversite2.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\üniversite2\üniversite2\obj\Debug\üniversite2.pdb
